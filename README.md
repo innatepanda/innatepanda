@@ -11,6 +11,10 @@
 
 - 🌱 I’m currently learning NodeJs, ReactJs and Java
 - 👯 I’m looking to collaborate on Web development, c, c++, java and game dev
+
+
+
+
 [![inntepanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=innatepanda)](https://github.com/innatepanda/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=innatepanda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
