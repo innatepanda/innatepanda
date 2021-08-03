@@ -15,7 +15,7 @@
 
 
 
-[![inntepanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=innatepanda?theme=merko)](https://github.com/innatepanda/github-readme-stats)
+[![inntepanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=innatepanda&theme=merko)](https://github.com/innatepanda/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=innatepanda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
