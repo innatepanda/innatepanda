@@ -22,5 +22,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=innatepanda)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=innatepanda&color=green)
+[![page views](https://komarev.com/ghpvc/?username=innatepanda&color=green)](https://github.com/antonkomarev/github-profile-views-counter)
 
